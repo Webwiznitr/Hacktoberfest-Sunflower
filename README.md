@@ -10,6 +10,9 @@ This portfolio has many parts which will make ur profile impressive and help you
 Hacktoberfest is a month-long celebration of open-source software by DigitalOcean that encourages participation in giving back to the open-source community. Developers get involved by completing pull requests, participating in events, and donating to open source projects.
 
 
+![hacktoberfest 2021 banner](https://user-images.githubusercontent.com/76111005/135587745-7bcfee18-3fd0-47e5-be37-1def03593f9e.png)
+
+
 ### "Open-source projects keep the internet humming—but they can’t do it without resources. Donate and support their awesome work."
 
 
