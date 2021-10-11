@@ -1,9 +1,8 @@
 # Project_Sunflower
 
 ## What is project Sunflower?
+This project is mainly about Portfolio template. In this project, we are planning to create a portfolio template which can be used by everyone to make their portfolio using this template. This portfolio has many parts which will make your profile impressive and help you to represent this during your interviews and in many other cases. 
 
-This project is mainly about Portfolio template. In this project, we create a portfolio template which can be used by everyone to make their portfolio using this template.
-This portfolio has many parts which will make ur profile impressive and help you to represent this during your interviews and in many other cases.
 
 ## What is Hacktoberfest?
 
